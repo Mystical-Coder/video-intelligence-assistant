@@ -113,9 +113,6 @@ Run the application
 streamlit run app.py
 ```
 
-## Demo
-
-Add screenshots or a demo GIF here.
 
 ## Project Structure
 
